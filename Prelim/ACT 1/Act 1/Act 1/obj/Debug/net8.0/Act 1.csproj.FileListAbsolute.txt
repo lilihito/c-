@@ -1,0 +1,15 @@
+D:\c-\Prelim\ACT 1\Act 1\Act 1\bin\Debug\net8.0\Act 1.exe
+D:\c-\Prelim\ACT 1\Act 1\Act 1\bin\Debug\net8.0\Act 1.deps.json
+D:\c-\Prelim\ACT 1\Act 1\Act 1\bin\Debug\net8.0\Act 1.runtimeconfig.json
+D:\c-\Prelim\ACT 1\Act 1\Act 1\bin\Debug\net8.0\Act 1.dll
+D:\c-\Prelim\ACT 1\Act 1\Act 1\bin\Debug\net8.0\Act 1.pdb
+D:\c-\Prelim\ACT 1\Act 1\Act 1\obj\Debug\net8.0\Act 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-\Prelim\ACT 1\Act 1\Act 1\obj\Debug\net8.0\Act 1.AssemblyInfoInputs.cache
+D:\c-\Prelim\ACT 1\Act 1\Act 1\obj\Debug\net8.0\Act 1.AssemblyInfo.cs
+D:\c-\Prelim\ACT 1\Act 1\Act 1\obj\Debug\net8.0\Act 1.csproj.CoreCompileInputs.cache
+D:\c-\Prelim\ACT 1\Act 1\Act 1\obj\Debug\net8.0\Act 1.sourcelink.json
+D:\c-\Prelim\ACT 1\Act 1\Act 1\obj\Debug\net8.0\Act 1.dll
+D:\c-\Prelim\ACT 1\Act 1\Act 1\obj\Debug\net8.0\refint\Act 1.dll
+D:\c-\Prelim\ACT 1\Act 1\Act 1\obj\Debug\net8.0\Act 1.pdb
+D:\c-\Prelim\ACT 1\Act 1\Act 1\obj\Debug\net8.0\Act 1.genruntimeconfig.cache
+D:\c-\Prelim\ACT 1\Act 1\Act 1\obj\Debug\net8.0\ref\Act 1.dll
