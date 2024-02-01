@@ -15,15 +15,15 @@ class SimpleCalculator
         num2 = Convert.ToInt32(Console.ReadLine());
 
         // performs the following arithmetic operations
-        Console.WriteLine($"Sum: {num1 + num2}");
-        Console.WriteLine($"Difference: {num1 - num2}");
-        Console.WriteLine($"Product: {num1 * num2}");
+        Console.WriteLine($" [Addition] Sum: {num1 + num2}");
+        Console.WriteLine($" [Subtraction] Difference: {num1 - num2}");
+        Console.WriteLine($" [Multiplication] Product: {num1 * num2}");
 
         // Check for division by zero
         if (num2 != 0)
         {
             double quotient = (double)num1 / num2;
-            Console.WriteLine($"Quotient: {quotient}");
+            Console.WriteLine($" [Division] Quotient: {quotient}");
         }
         else
         {
