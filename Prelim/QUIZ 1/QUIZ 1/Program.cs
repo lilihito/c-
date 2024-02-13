@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 
 
-namespace PersonWeightApp
+namespace Quiz1
 
 {
 
