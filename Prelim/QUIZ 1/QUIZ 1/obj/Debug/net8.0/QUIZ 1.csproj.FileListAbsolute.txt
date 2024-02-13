@@ -1,0 +1,15 @@
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\bin\Debug\net8.0\QUIZ 1.exe
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\bin\Debug\net8.0\QUIZ 1.deps.json
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\bin\Debug\net8.0\QUIZ 1.runtimeconfig.json
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\bin\Debug\net8.0\QUIZ 1.dll
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\bin\Debug\net8.0\QUIZ 1.pdb
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\obj\Debug\net8.0\QUIZ 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\obj\Debug\net8.0\QUIZ 1.AssemblyInfoInputs.cache
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\obj\Debug\net8.0\QUIZ 1.AssemblyInfo.cs
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\obj\Debug\net8.0\QUIZ 1.csproj.CoreCompileInputs.cache
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\obj\Debug\net8.0\QUIZ 1.sourcelink.json
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\obj\Debug\net8.0\QUIZ 1.dll
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\obj\Debug\net8.0\refint\QUIZ 1.dll
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\obj\Debug\net8.0\QUIZ 1.pdb
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\obj\Debug\net8.0\QUIZ 1.genruntimeconfig.cache
+D:\Justiniani, Justine Ezekiel\c-\Prelim\QUIZ 1\QUIZ 1\obj\Debug\net8.0\ref\QUIZ 1.dll
